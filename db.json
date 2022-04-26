@@ -3,7 +3,7 @@
         {
             "wilaya":[
                 {
-                    "code":1,
+                    "id":1,
                     "name":"Adrar",
                     "hospital":[
                         {
@@ -26,7 +26,7 @@
                     ]
                 },
                 {
-                    "code":2,
+                    "id":2,
                     "name":"Chlef",
                     "hospital":[
                         {
@@ -44,7 +44,7 @@
                     ]
                 },
                 {
-                    "code":3,
+                    "id":3,
                     "name":"Laghouat",
                     "hospital":[
                         {
@@ -56,7 +56,7 @@
                     ]
                 },
                 {
-                    "code":4,
+                    "id":4,
                     "name":"Oum el Bouaghi",
                     "hospital":[
                         {
@@ -72,7 +72,7 @@
                     ]
                 },
                 {
-                    "code":5,
+                    "id":5,
                     "name":"Batna",
                     "hospital":[
                         {
@@ -95,7 +95,7 @@
                     ]
                 },
                 {
-                    "code":6,
+                    "id":6,
                     "name":"Béjaïa",
                     "hospital":[
                         {
@@ -114,7 +114,7 @@
                     ]
                 },
                 {
-                    "code":7,
+                    "id":7,
                     "name":"Biskra",
                     "hospital":[
                         {
@@ -128,7 +128,7 @@
                     ]
                 },
                 {
-                    "code":8,
+                    "id":8,
                     "name":"Béchar",
                     "hospital":[
                         {
@@ -143,7 +143,7 @@
                     ]
                 },
                 {
-                    "code":9,
+                    "id":9,
                     "name":"Blida",
                     "hospital":[
                         {
@@ -159,7 +159,7 @@
                     ]
                 },
                 {
-                    "code":10,
+                    "id":10,
                     "name":"Bouira",
                     "hospital":[
                         {
@@ -174,7 +174,7 @@
                     ]
                 },
                 {
-                    "code":11,
+                    "id":11,
                     "name":"Tamanrasset",
                     "hospital":[
                         {
@@ -186,7 +186,7 @@
                     ]
                 },
                 {
-                    "code":12,
+                    "id":12,
                     "name":"Tébessa",
                     "hospital":[
                         {
@@ -203,7 +203,7 @@
                     ]
                 },
                 {
-                    "code":13,
+                    "id":13,
                     "name":"Tlemcen",
                     "hospital":[
                         {
@@ -220,7 +220,7 @@
                     ]
                 },
                 {
-                    "code":14,
+                    "id":14,
                     "name":"Tiaret",
                     "hospital":[
                         {
@@ -238,7 +238,7 @@
                     ]
                 },
                 {
-                    "code":15,
+                    "id":15,
                     "name":"Tizi Ouzou",
                     "hospital":[
                         {
@@ -261,7 +261,7 @@
                     ]
                 },
                 {
-                    "code":16,
+                    "id":16,
                     "name":"Alger",
                     "hospital":[
                         {
@@ -295,7 +295,7 @@
                     ]
                 },
                 {
-                    "code":17,
+                    "id":17,
                     "name":"Djelfa",
                     "hospital":[
                         {
@@ -311,7 +311,7 @@
                     ]
                 },
                 {
-                    "code":18,
+                    "id":18,
                     "name":"Jijel",
                     "hospital":[
                         {
@@ -324,7 +324,7 @@
                     ]
                 },
                 {
-                    "code":19,
+                    "id":19,
                     "name":"Sétif",
                     "hospital":[
                         {
@@ -342,7 +342,7 @@
                     ]
                 },
                 {
-                    "code":20,
+                    "id":20,
                     "name":"Saïda",
                     "hospital":[
                         {
@@ -354,7 +354,7 @@
                     ]
                 },
                 {
-                    "code":21,
+                    "id":21,
                     "name":"Skikda",
                     "hospital":[
                         {
@@ -369,7 +369,7 @@
                     ]
                 },
                 {
-                    "code":22,
+                    "id":22,
                     "name":"Sidi Bel Abbès",
                     "hospital":[
                         {
@@ -386,7 +386,7 @@
                     ]
                 },
                 {
-                    "code":23,
+                    "id":23,
                     "name":"Annaba",
                     "hospital":[
                         {
@@ -405,7 +405,7 @@
                     ]
                 },
                 {
-                    "code":24,
+                    "id":24,
                     "name":"Guelma",
                     "hospital":[
                         {
@@ -420,7 +420,7 @@
                     ]
                 },
                 {
-                    "code":25,
+                    "id":25,
                     "name":"Constantine",
                     "hospital":[
                         {
@@ -440,7 +440,7 @@
                     ]
                 },
                 {
-                    "code":26,
+                    "id":26,
                     "name":"Médéa",
                     "hospital":[
                         {
@@ -457,7 +457,7 @@
                     ]
                 },
                 {
-                    "code":27,
+                    "id":27,
                     "name":"Mostaganem",
                     "hospital":[
                         {
@@ -474,7 +474,7 @@
                     ]
                 },
                 {
-                    "code":28,
+                    "id":28,
                     "name":"M'Sila",
                     "hospital":[
                         {
@@ -488,7 +488,7 @@
                     ]
                 },
                 {
-                    "code":29,
+                    "id":29,
                     "name":"Mascara",
                     "hospital":[
                         {
@@ -510,7 +510,7 @@
                     ]
                 },
                 {
-                    "code":30,
+                    "id":30,
                     "name":"Ouargla",
                     "hospital":[
                         {
@@ -524,7 +524,7 @@
                     ]
                 },
                 {
-                    "code":31,
+                    "id":31,
                     "name":"Oran",
                     "hospital":[
                         {
@@ -548,7 +548,7 @@
                     ]
                 },
                 {
-                    "code":32,
+                    "id":32,
                     "name":"El Bayadh",
                     "hospital":[
                         {
@@ -561,7 +561,7 @@
                     ]
                 },
                 {
-                    "code":33,
+                    "id":33,
                     "name":"Illizi",
                     "hospital":[
                         {
@@ -573,7 +573,7 @@
                     ]
                 },
                 {
-                    "code":34,
+                    "id":34,
                     "name":"Bordj Bou Arreridj",
                     "hospital":[
                         {
@@ -586,7 +586,7 @@
                     ]
                 },
                 {
-                    "code":35,
+                    "id":35,
                     "name":"Boumerdès",
                     "hospital":[
                         {
@@ -599,7 +599,7 @@
                     ]
                 },
                 {
-                    "code":36,
+                    "id":36,
                     "name":"El Tarf",
                     "hospital":[
                         {
@@ -612,7 +612,7 @@
                     ]
                 },
                 {
-                    "code":37,
+                    "id":37,
                     "name":"Tindouf",
                     "hospital":[
                         {
@@ -623,7 +623,7 @@
                     ]
                 },
                 {
-                    "code":38,
+                    "id":38,
                     "name":"Tissemsilt",
                     "hospital":[
                         {
@@ -636,7 +636,7 @@
                     ]
                 },
                 {
-                    "code":39,
+                    "id":39,
                     "name":"El Oued",
                     "hospital":[
                         {
@@ -649,7 +649,7 @@
                     ]
                 },
                 {
-                    "code":40,
+                    "id":40,
                     "name":"Khenchela",
                     "hospital":[
                         {
@@ -663,7 +663,7 @@
                     ]
                 },
                 {
-                    "code":41,
+                    "id":41,
                     "name":"Souk Ahras",
                     "hospital":[
                         {
@@ -676,7 +676,7 @@
                     ]
                 },
                 {
-                    "code":42,
+                    "id":42,
                     "name":"Tipaza",
                     "hospital":[
                         {
@@ -692,7 +692,7 @@
                     ]
                 },
                 {
-                    "code":43,
+                    "id":43,
                     "name":"Mila",
                     "hospital":[
                         {
@@ -708,7 +708,7 @@
                     ]
                 },
                 {
-                    "code":44,
+                    "id":44,
                     "name":"Aïn Defla",
                     "hospital":[
                         {
@@ -722,7 +722,7 @@
                     ]
                 },
                 {
-                    "code":45,
+                    "id":45,
                     "name":"Naâma",
                     "hospital":[
                         {
@@ -735,7 +735,7 @@
                     ]
                 },
                 {
-                    "code":46,
+                    "id":46,
                     "name":"Aïn Témouchent",
                     "hospital":[
                         {
@@ -751,7 +751,7 @@
                     ]
                 },
                 {
-                    "code":47,
+                    "id":47,
                     "name":"Ghardaïa",
                     "hospital":[
                         {
@@ -766,7 +766,7 @@
                     ]
                 },
                 {
-                    "code":48,
+                    "id":48,
                     "name":"Relizane",
                     "hospital":[
                         {
